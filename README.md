@@ -9,6 +9,6 @@ public class Main {
       char d = ' ';
       float e = 2.0f;
       boolean f = true;
-      String output = "H" + a + b + b + zero + d + "w" + zero + "r" + b + "d" + d + e + d+ f;
+      String output = "H" + a + b + b + zero + d + "w" + zero + "r" + b + "d" + d + e + d + f;
       System.out.println(output); }
       }
